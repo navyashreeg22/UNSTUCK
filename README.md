@@ -105,20 +105,10 @@ The main demonstrations include:
 - Application deadline reminders.
 - Offline-friendly assistance.
 
-## Hackathon Details
-
-- **Event:** wHACKiest 2026
-- **Project:** UNSTUCK
-- **Team:** Team Asthra
-- **Track:** Track 2 — Beyond the Browser: Reimagine How We Use the Web
-- **College:** Dayananda Sagar College of Engineering
-
 ## Vision
 
 Our vision is to make digital public services easier to understand and access, especially for people who are less comfortable navigating online platforms.
 
 **One platform. Two workflows. A simpler way to get things done.**
-
----
 
 *Built with the belief that accessing an online service shouldn't feel like solving a puzzle.*
